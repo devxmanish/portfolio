@@ -147,7 +147,7 @@ export default function Footer() {
             <div className="flex items-center text-gray-400 text-sm">
               <span>Designed with</span>
               <Heart className="h-4 w-4 mx-1 text-red-500 fill-current" />
-              <span>by Manish Chaudhary</span>
+              <span>by DevXManish</span>
             </div>
           </div>
         </div>
